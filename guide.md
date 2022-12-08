@@ -21,7 +21,7 @@
 ними. Git хранит не файлы целиком, а отличия между ними. Это позволяет экономить память.
 
 
-![Логотип Git](https://1.bp.blogspot.com/-QOv8t_6ltJ8/XTFmY5l_8cI/AAAAAAAAS8Q/RhsLE4RN1bAnLJy7nDcfksAQVwEvF90eQCLcBGAs/s1600/gitcommandslinuxguru.png)
+![Альтернативный текст](https://fuzeservers.ru/wp-content/uploads/3/0/c/30c29ce4cc08523ecc6e1f205bc207d0.jpeg)
 
 ***
 
@@ -44,5 +44,6 @@
 > Нажатие клавиши ‘q’ возвращает в исходное окно терминала.
 
 >Git отслеживает файлы по имени! Если изменить имя файла, необходимо добавить файл с новый именем + git commit.
+
 
 
