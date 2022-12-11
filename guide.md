@@ -51,27 +51,27 @@
 ***
 ## Ветки в git 
 
->* **git branch** выводим список веток в репозитории
+>1. **git branch** выводим список веток в репозитории
 
 ![пример](1.png)
 
->* **git branch new_branch_name** создаем новую ветку с именем new_branch_name
+>2. **git branch new_branch_name** создаем новую ветку с именем new_branch_name
 
 ![пример](2.png)
 
->* **git branch -d branch_to_delete** удаляем ветку с именем new_branch_name
+>3. **git branch -d branch_to_delete** удаляем ветку с именем new_branch_name
 
 ![пример](3.png)
 
->* **git checkout branch_name** переходим на ветку branch_name 
+>4. **git checkout branch_name** переходим на ветку branch_name 
 
 ![пример](4.png)
 
->* **git log –-graph** выводим список коммитов в виде красивого графа/дерева
+>5. **git log –-graph** выводим список коммитов в виде красивого графа/дерева
 
 ![пример](5.png)
 
->* **git merge branch_name** сливает ветку branch_name с текущей веткой
+>6. **git merge branch_name** сливает ветку branch_name с текущей веткой
 
 ![пример](6.png)
 
