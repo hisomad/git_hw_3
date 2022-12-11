@@ -68,3 +68,11 @@
 
 * **git merge branch_name** сливает ветку branch_name с текущей веткой
 ![пример](6.png)
+
+***
+## Полезные ссылки и материалы
+
+* <https://www.atlassian.com/ru/git/tutorials/setting-up-a-repository>
+* <https://www.atlassian.com/ru/git/tutorials/saving-changes>
+* <https://www.atlassian.com/ru/git/tutorials/inspecting-a-repository>
+* <https://www.atlassian.com/ru/git/tutorials/undoing-changes>
